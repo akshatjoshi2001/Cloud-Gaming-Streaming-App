@@ -11,7 +11,7 @@ It is in very initial stages.
 
 ## To do
 
-* MJPEG is very slow (upto 5 FPS). I wish to migrate to AV1/VP9 codecs. Will have to see how to do it.
+* MJPEG is very slow (upto 5 FPS for 480p). I wish to migrate to AV1/VP9 codecs. Will have to see how to do it.
 * I haven't added controls yet. Will be using WebSockets in the future for controls.
 
 
